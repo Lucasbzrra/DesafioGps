@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioGPS", "DesafioGPS\DesafioGPS.csproj", "{8049A77D-F6AE-43AA-8494-740F9731803D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8049A77D-F6AE-43AA-8494-740F9731803D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8049A77D-F6AE-43AA-8494-740F9731803D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8049A77D-F6AE-43AA-8494-740F9731803D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8049A77D-F6AE-43AA-8494-740F9731803D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C554DAE8-7F28-47D7-B001-38F2E9959E21}
+	EndGlobalSection
+EndGlobal
