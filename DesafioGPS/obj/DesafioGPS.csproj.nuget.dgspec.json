@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\source\\repos\\DesafioGps\\DesafioGPS\\DesafioGPS.csproj": {}
+    "C:\\Users\\lucas\\source\\repos\\DesafioGPS\\DesafioGPS\\DesafioGPS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\source\\repos\\DesafioGps\\DesafioGPS\\DesafioGPS.csproj": {
+    "C:\\Users\\lucas\\source\\repos\\DesafioGPS\\DesafioGPS\\DesafioGPS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\DesafioGps\\DesafioGPS\\DesafioGPS.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\DesafioGPS\\DesafioGPS\\DesafioGPS.csproj",
         "projectName": "DesafioGPS",
-        "projectPath": "C:\\Users\\lucas\\source\\repos\\DesafioGps\\DesafioGPS\\DesafioGPS.csproj",
+        "projectPath": "C:\\Users\\lucas\\source\\repos\\DesafioGPS\\DesafioGPS\\DesafioGPS.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\source\\repos\\DesafioGps\\DesafioGPS\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\source\\repos\\DesafioGPS\\DesafioGPS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",

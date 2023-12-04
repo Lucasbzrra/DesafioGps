@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l2jU7t0NgX86TGFJWHnDwJXL1UHcvtYPnnhyDa8r82uU0Lvr5/1PQjMJX5MAKYkxPRdaBE/NdEVpk+Ab8b3b6Q==",
+  "dgSpecHash": "UgO3Xsjcws98q+IDzSr3TvXhKXRJHZa4HGaJabBGtf9Y2ckelUJJJcN0iPYLkqJaYltVPlFWUZYEXX5Q7SQFhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\DesafioGps\\DesafioGPS\\DesafioGPS.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\DesafioGPS\\DesafioGPS\\DesafioGPS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
