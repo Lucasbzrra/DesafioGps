@@ -44,7 +44,8 @@ retornar os seguintes POIs:
 - Pub
 - Supermercado
 
-:white_check_mark:Cadastrar pontos de interesse, com 03 atributos: nome do POI, coordenada X (inteiro não negativo) e coordenada Y (inteiro não negativo).
+:white_check_mark:Cadastrar pontos de interesse, com 03 atributos: nome do POI, 
+coordenada X (inteiro não negativo) e coordenada Y (inteiro não negativo).
 :white_check_mark:Os POIs devem ser armazenados em uma base de dados.
 :white_check_mark:Listar todos os POIs cadastrados.
 :white_check_mark:Listar os POIs por proximidade. Este serviço receberá uma coordenada X e uma coordenada Y, especificando um ponto de
