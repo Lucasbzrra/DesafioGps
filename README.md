@@ -10,21 +10,22 @@ Você foi contratado para desenvolver a plataforma que fornecerá toda a intelig
 ser baseada em serviços REST, para flexibilizar a integração.
 
 Ferramentas utilizadas para resolução do desafio:
-Linguagem: C#
-Framework: ASP.NET 6
-Banco de dados NOSQL: MongoDB
+- Linguagem: C#
+- Framework: ASP.NET 6
+- Banco de dados NOSQL: MongoDB
+
 
 Endpoints: 
-/Register/PointOfInterest
-/Get/PointOfInterest
-/Put/PointOfInterest-{id}
-/Delete/PointOfInterest-{id}
+- /Register/PointOfInterest
+- /Get/PointOfInterest
+- /Put/PointOfInterest-{id}
+- /Delete/PointOfInterest-{id}
+- Get/Calculet-Distancia-{id}
+- /Get/StartingPoint
+- /Register/StartingPoint
+- /Put/StartingPoint-{id}
+- /Delete/StartingPoint-{id}
 
-Get/Calculet-Distancia-{id}
-/Register/StartingPoint
-/Get/StartingPoint
-/Put/StartingPoint-{id}
-/Delete/StartingPoint-{id}
 
 Considere a seguinte base de dados de POIs:
 
