@@ -48,6 +48,4 @@ retornar os seguintes POIs:
 coordenada X (inteiro não negativo) e coordenada Y (inteiro não negativo).
 :white_check_mark:Os POIs devem ser armazenados em uma base de dados.
 :white_check_mark:Listar todos os POIs cadastrados.
-:white_check_mark:Listar os POIs por proximidade. Este serviço receberá uma coordenada X e uma coordenada Y, especificando um ponto de
-eferência, bem como uma distância máxima (d-max) em metros. O serviço deverá retornar todos os POIs da base de dados
-que estejam a uma distância menor ou igual a d-max a partir do ponto de referência.
+:white_check_mark:Listar os POIs por proximidade. 
